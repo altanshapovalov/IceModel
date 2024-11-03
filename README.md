@@ -1,4 +1,4 @@
-**READ FIRST:** here you can find brief descriptions of each code in the repository. Instead of uploading the entire working repo that I used during my masters with IceModel, I chose a dozen scripts that best represent my most up to date coding practices and abilities.
+**READ FIRST:** here you can find brief descriptions of each script in the repository. Instead of uploading the entire working repo that I used during my masters with IceModel, I chose a dozen scripts that best represent my most up to date coding practices and abilities.
 
 **1. a_McdAlbExtract.m** – read .csv files extracted from Google Earth Engine, which contain albedo data from MCD43A3 (NASA’s MODIS). 1) Read csv file, 2) identify any gaps in the data [if gaps are small – patch], and 3) organize data files so that they can be inserted into the IceModel.
 
